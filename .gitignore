@@ -1,2 +1,7 @@
 .idea
 .ipynb_checkpoints
+
+chap05/model
+chap05/tb_model
+chap05/logs
+
