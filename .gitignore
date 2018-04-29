@@ -1,7 +1,10 @@
 .idea
 .ipynb_checkpoints
 
+# chap 05
 chap05/model
 chap05/tb_model
 chap05/logs
 
+# chap 06
+chap06/mnist
